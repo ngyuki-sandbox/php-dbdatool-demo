@@ -1,0 +1,5 @@
+{
+    "extra": {
+        "dbdatool-config": ["config.php"]
+    }
+}
